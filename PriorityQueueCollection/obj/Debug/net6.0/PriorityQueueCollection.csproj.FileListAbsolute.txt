@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\bin\Debug\net6.0\PriorityQueueCollection.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\bin\Debug\net6.0\PriorityQueueCollection.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\bin\Debug\net6.0\PriorityQueueCollection.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\bin\Debug\net6.0\PriorityQueueCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\bin\Debug\net6.0\PriorityQueueCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\refint\PriorityQueueCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\PriorityQueueCollection.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\PriorityQueueCollection\PriorityQueueCollection\obj\Debug\net6.0\ref\PriorityQueueCollection.dll
